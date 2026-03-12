@@ -1,0 +1,8 @@
+SMART PARKING RECEIPT
+Ticket ID: 1015
+Vehicle: UP14CZ1234
+Floor: 3
+Slot: 92
+Entry: 2025-11-15 11:13:22.456
+Exit: 2025-11-15 11:17:15.369
+Amount Paid: ₹50.0
